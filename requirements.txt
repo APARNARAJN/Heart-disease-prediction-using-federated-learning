@@ -1,0 +1,7 @@
+torch==2.10.0
+flwr==1.26.1
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
