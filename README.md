@@ -1,4 +1,4 @@
-Federated Learning for Heart Disease Prediction (Flower + PyTorch)
+#Federated Learning for Heart Disease Prediction (Flower + PyTorch)
 
 A privacy-preserving Federated Learning system for cardiovascular disease prediction using Flower and PyTorch under Non-IID client distributions.
 
