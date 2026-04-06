@@ -1,10 +1,10 @@
-# ❤️ Federated Learning for Heart Disease Prediction
+#  Federated Learning for Heart Disease Prediction
 
 A privacy-preserving machine learning system that predicts cardiovascular disease using **Federated Learning** with a novel **3-Factor Weighted FedAvg** algorithm.
 
 ---
 
-## 🎯 Project Overview
+##  Project Overview
 
 This project demonstrates how multiple hospitals can collaborate to build a powerful AI model **without sharing sensitive patient data**. Using federated learning, each hospital trains locally on its own data, and only model weights are shared — ensuring complete privacy preservation.
 
