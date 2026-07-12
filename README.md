@@ -140,9 +140,6 @@ pip install torch flwr numpy pandas scikit-learn matplotlib seaborn scipy stream
 #bash
 streamlit run fl_ui_fixed.py
 
-
-Opens at `http://localhost:8501`
-
 ---
 
 ## 📈 How It Works
